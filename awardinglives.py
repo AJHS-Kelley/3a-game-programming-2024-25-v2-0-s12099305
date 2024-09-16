@@ -2,8 +2,22 @@
 
 
 lives = 3
+score = 25000
+name = "Marcus"
+
+print(f"hello {marcus}! you scored ")
+print(f"hello {marcus}! you scored ")
+# allow the user to input the score as an integer.
+      
+      
+# charecter reference
+# curl braces {}
+# angle-brackets <>
+# parentheses ()
+
 
 # allow the user to input the score as an integer.
+
 
 # if score is 10000 or less
 # lose a life
